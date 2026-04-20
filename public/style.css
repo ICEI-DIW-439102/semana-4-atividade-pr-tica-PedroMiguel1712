@@ -1,3 +1,249 @@
-body {
-    background-color: aquamarine;
+*{
+    margin: 0;
+}
+
+body{
+    background-color: var(--background_light);
+    color: var(--text_light);
+    font-family: "Montserrat", sans-serif;
+}
+
+:root{
+    --accent: #D4B080;
+    --secondary: #3A3A3A;
+    --primary: #A61D2D;
+    --background: #2B2B2B;
+    --text: #F1F1F1;
+
+    --other_accent: #bd9156;
+
+    --accent_light: #a97c42;
+    --secondary_light: #c4c4c4;
+    --primary_light: #b01c2d;
+    --background_light: #d4d4d4;
+    --text_light: #0d0d0d;
+}
+
+header{
+    display: flex;
+    background-color: #D4AF7F;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+#logo{
+    margin: 5px;
+    width: 15%;
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: var(--text_light);
+    margin-left: 10px;
+}
+
+#header_div_btn{
+    width: 30%;
+}
+
+.header_btn{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+aside{
+    background-color: var(--background_light);
+    width: 15%;
+    height: 700px;
+    text-align: center; 
+}
+
+main{
+    background-color: var(--background_light);
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#div_flex{
+    display: flex;
+    height: 1500px;
+    width: 100%;
+    justify-content: center;
+}
+
+.container{
+    width: 60%;
+    height: 20%;
+    border-radius: 20px;
+    background-color: var(--accent);
+    margin-top: 10px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-top: 130px;
+}
+
+#top_songs{
+    margin-top: 20px;
+}
+
+#card{
+    display: inline-block;
+    margin-top: 30px;
+    width: 70%;
+    height: 700px;
+    background-color: var(--accent);
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: var(--accent);
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+#div_main{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 529px;
+}
+
+.img_container{
+    width: 70%;
+    border-radius: 10px;
+}
+
+#footer_login{
+    margin-top: 215px;
+}
+
+#login_txt{
+    width: 100%;
+    text-align: center;
+}
+
+#div_inputs{
+    width: 100%;
+    height: 70%;
+}
+
+#input_txt{
+    width: 90%;
+    height: 15%;
+    margin-top: 3%;
+    margin-left: 3%;
+    border-radius: 10px;
+    background-color: #e9dac6;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+#div_btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#login_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e9dac6;
+    width: 15%;
+    font-size: 18px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+#cad_btn{
+    color: blue;
+}
+
+#nt_log{
+    padding-left: 15px;
+}
+
+#l_card{
+    margin-left: 5%;
+    margin-top: 4%;
+    width: 90%;
+    height: 90%;
+    background-color: #e9dac6;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+#div_nick{
+    display: flex;
+    width: 100%;
+    height: 5%;
+}
+
+#nick_txt{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#div_img{
+    display: flex;
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#img_post{
+    width: 90%;
+    height: 100%;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+
+#seguir_txt{
+    margin-left: 600px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#seguir_txt_2{
+    margin-left: 510px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#desc_txt{
+    margin-top: 20px;
+    width: 90%;
+}
+
+#div_desc{
+    display: flex;
+    justify-content: center;
+}
+
+#input_pesquisar{
+    width: 90%;
+    height: 30%;
+    margin-left: 3%;
+    border-radius: 10px;
+    background-color: #e9dac6;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    padding-left: 10px;
+    font-size: 15px;
 }
