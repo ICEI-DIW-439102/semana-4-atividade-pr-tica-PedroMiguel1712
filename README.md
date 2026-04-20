@@ -10,10 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Pedro Miguel Souza Dias
+- Matricula: 801970
+- Proposta de projeto escolhida: A proposta escolhida foi o desenvolvimento de uma rede social temática voltada para fãs da Sabrina Carpenter
+- Breve descrição sobre seu projeto: Um tipo de rede social sobre a cantora Sabrina Carpenter, com informações dos proximos shows, posts entre usuarios, login e cadastro, uma aba que explica sobre oque é o site
 
 
 ## Print do(s) wireframe(s) criado
@@ -25,4 +25,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1892" height="942" alt="image" src="https://github.com/user-attachments/assets/c0d034f3-7218-402d-a268-a14c622bb2a9" />
