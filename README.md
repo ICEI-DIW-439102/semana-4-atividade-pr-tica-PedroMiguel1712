@@ -17,7 +17,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1707" height="871" alt="image" src="https://github.com/user-attachments/assets/31659a65-4ec2-4583-a6a7-1fe1ff6ba5dd" />
+
 
 
 
